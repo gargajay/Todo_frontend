@@ -7,7 +7,7 @@
 
 
    <!-- component -->
-<div class="  w-full flex items-center justify-center min-h-screen  bg-teal-100 font-sans ">
+<div class="  w-full flex items-center justify-center min-h-screen  bg-teal-50 font-sans ">
 	<div class="bg-white rounded shadow p-6 m-4 w-full lg:w-3/4 ">
         <div class="mb-3">
             <h1 class="text-indigo-600 font-bold font-sans text-4xl text-center">Todo List</h1>
