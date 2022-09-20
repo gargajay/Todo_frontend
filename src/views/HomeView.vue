@@ -80,9 +80,7 @@ export default {
           fetch(constant.BACKEND_URL+'todo/list',getConfig).then(response => {
           if (response.status == 200) {
             return response.json();            
-          } else {
-            alert(response.statusText);
-          }
+          } 
           }).then(data =>{
                   if(data.data){
                     this.todos = data.data
